@@ -1,0 +1,19 @@
+{
+	"server":"localhost",
+	"server_port":"3000",
+	"db_host":"localhost",
+	"database":"testLogin",
+	"port":"27017",
+	"db_user":"manager",
+	"db_password":"123456" ,
+    "deploymentMode": "SANDBOX",
+    "SMTPAuthUser":"swamykwork4868@gmail.com",
+    "SMTPAuthPwd" :"chethan@1988",
+    "passwordLenght" :6,
+    "EmailServiceProvider" : "Gmail",
+    "EmailOnBehalfOf" : "test",
+    "email_banner":"mail send",
+    "supportGroupToEmail": "Gmail",
+    "supportGroupCCEmail": "Gmail",
+    "subjectReservationEmail": "Gmail"
+}
